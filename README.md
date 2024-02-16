@@ -8,9 +8,9 @@ Library to work with the GetPocket API
   - https://getpocket.com/developer/docs/authentication
 
 # Installation
-*getpocket-api* is available as a Maven artifact from [Clojars](http://clojars.org/naxels/getpocket-api).
+*getpocket-api* is available as a Maven artifact from [Clojars](https://clojars.org/net.clojars.naxels/getpocket-api).
 
-![Latest version](https://clojars.org/naxels/getpocket-api/latest-version.svg)
+![Latest version](https://clojars.org/net.clojars.naxels/getpocket-api/latest-version.svg)
 
 ## Usage
 An example usecase to print all resolved titles from the response:
