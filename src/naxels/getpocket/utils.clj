@@ -1,6 +1,6 @@
 (ns naxels.getpocket.utils
   (:require [clojure.string :as str]
-            [clj-http.client :as http]
+            [clj-http.lite.client :as http]
             [jsonista.core :as json]))
 
 (defn build-url
